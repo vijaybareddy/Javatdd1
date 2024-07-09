@@ -1,8 +1,9 @@
 package com.neoteric.javatdd1;
 
+import com.neoteric.javatdd1.demo.Student;
 import org.junit.jupiter.api.Test;
 
-public class StudentFromTest {
+public class StudentTest {
     @Test
     public  void test() {
         Student parent1=new Student();

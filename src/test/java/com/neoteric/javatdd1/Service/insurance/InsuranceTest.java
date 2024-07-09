@@ -1,5 +1,6 @@
-package com.neoteric.javatdd1;
+package com.neoteric.javatdd1.Service.insurance;
 
+import com.neoteric.javatdd1.model.insurance.InsuranceFrom;
 import org.junit.jupiter.api.Test;
 
 public class InsuranceTest {

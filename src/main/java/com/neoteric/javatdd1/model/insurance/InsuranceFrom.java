@@ -1,4 +1,4 @@
-package com.neoteric.javatdd1;
+package com.neoteric.javatdd1.model.insurance;
 
 public class InsuranceFrom {
     public String FullName;
